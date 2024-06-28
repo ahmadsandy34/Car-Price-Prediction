@@ -60,7 +60,7 @@ Description : This dataset contains the details of used cars and their prices.
 3. In the Car-Price-Prediction_Inference.ipynb, run all cells. You can change the content of data_inf or data_inf2 to experiment with different
     car specification
 
-## The Model Strengths and Weakness :
+## The Model Strength and Weakness :
 
 ### Strength : 
 - Can decently predict middle prices (£10000~£30000) cars 
