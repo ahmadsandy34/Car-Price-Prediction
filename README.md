@@ -1,6 +1,6 @@
 # Car-Price-Prediction
 
-Objective   : Predict car price using linear regression model.
+Objective   : Predict car price using Linear Regression model.
 
 Dataset : `Car-Price-Prediction_Dataset.csv`
 
