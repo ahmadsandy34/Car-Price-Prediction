@@ -54,8 +54,8 @@ Description : This dataset contains the details of used cars and their prices.
 - model_scaler.pkl  : Standard Scaler pickle file
 
 ## How to use :
-1. Download Car-Price-Prediction_Main.ipynb, Car-Price-Prediction_Inference.ipynb, and Car-Price-Prediction_Dataset.csv then store it in one file
-2. In the Car-Price-Prediction_Main.ipynb, run all cells. There will be new files in the file consisting of lasso_lin_reg.pkl, list_cat_cols.txt,
+1. Download Car-Price-Prediction_Main.ipynb, Car-Price-Prediction_Inference.ipynb, and Car-Price-Prediction_Dataset.csv then store it in one folder
+2. In the Car-Price-Prediction_Main.ipynb, run all cells. There will be new files in the folder consisting of lasso_lin_reg.pkl, list_cat_cols.txt,
    list_num_cols.txt, model_encoder.pkl, model_scaler.pkl. These files will be used to predict new car data in Car-Price-Prediction_Inference.ipynb
 3. In the Car-Price-Prediction_Inference.ipynb, run all cells. You can change the content of data_inf or data_inf2 to experiment with different
     car specification
