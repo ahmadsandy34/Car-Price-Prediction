@@ -65,7 +65,7 @@ Description : This dataset contains the details of used cars and their prices.
 ### Strength : 
 - Can decently predict middle prices (£10000~£30000) cars 
 
-### Weakkness :
+### Weakness :
 - Struggle to predict low prices (<£10000) and high prices (>£30000) cars
 - In the case of very low-priced cars, it can predict a negative value
  
